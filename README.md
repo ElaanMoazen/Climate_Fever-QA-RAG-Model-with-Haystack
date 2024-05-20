@@ -1,11 +1,8 @@
 # Climate_Fever-QA-RAG-Model-with-Haystack
 ### Transfer Learning with RAG Models
 
-
-# Climate_Fever QA RAG Model with Haystack
-
-## Objective
-In this notebook, you will experiment with a Question Answering (QA) Retrieval-Augmented Generation (RAG) model on the `climate_fever` dataset using the Haystack framework. You will go through the entire process of fitting the parts of a RAG model together and learn how to prompt it with queries to get answers from the provided dataset.
+## Project Objective
+The objective of this project is to experiment with a QA RAG (Retrieval-Augmented Generation) model on the climate_fever dataset using the Haystack framework. The goal is to go through the entire process of fitting the parts of an RAG model together and learn how to prompt it with queries to get answers from the provided dataset.
 
 ## Prerequisites
 - Python 3.7 or above
@@ -20,10 +17,6 @@ cd climate_fever_qa_rag
 
 
 # Experimenting with QA RAG Model on Climate Fever Dataset
-
-## Project Objective
-
-The objective of this project is to experiment with a QA RAG (Retrieval-Augmented Generation) model on the climate_fever dataset using the Haystack framework. The goal is to go through the entire process of fitting the parts of an RAG model together and learn how to prompt it with queries to get answers from the provided dataset.
 
 ## Project Structure
 
@@ -56,9 +49,8 @@ To run the project:
 git clone <repository_url>
 
 2. Install the necessary dependencies:
-'''
 pip install -r requirements.txt
-'''
+
 
 3. Run the main script to execute the project:
 python main.py
