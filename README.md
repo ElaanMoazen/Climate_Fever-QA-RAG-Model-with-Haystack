@@ -14,7 +14,7 @@ First, clone the repository:
 ```bash
 git clone https://github.com/yourusername/climate_fever_qa_rag.git
 cd climate_fever_qa_rag
-
+```
 
 # Experimenting with QA RAG Model on Climate Fever Dataset
 
