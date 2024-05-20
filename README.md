@@ -46,15 +46,18 @@ The project is structured as follows:
 To run the project:
 
 1. Clone this repository:
+```bash
 git clone <repository_url>
-
+```
 2. Install the necessary dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Run the main script to execute the project:
+```bash
 python main.py
-
+```
 
 ## References
 
